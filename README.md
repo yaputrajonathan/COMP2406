@@ -1,2 +1,2 @@
 # COMP2406
-Online Community Fridge Website
+Online Community Fridge Search Website
